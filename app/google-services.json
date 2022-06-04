@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "152854257755",
+    "project_id": "waterdelivery-4d569",
+    "storage_bucket": "waterdelivery-4d569.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152854257755:android:b35f5fe2b91b2e36705f7e",
+        "android_client_info": {
+          "package_name": "com.topekox.waterdelivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "152854257755-ov3nf2csq4497tijkdp11v77d5p99923.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDE0Wz12Bwez_Rf9EZIEPIqBZt8ivS0HAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "152854257755-ov3nf2csq4497tijkdp11v77d5p99923.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
