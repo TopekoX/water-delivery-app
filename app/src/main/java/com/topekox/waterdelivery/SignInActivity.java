@@ -3,6 +3,7 @@ package com.topekox.waterdelivery;
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.util.Patterns;
 import android.view.View;
@@ -39,11 +40,13 @@ public class SignInActivity extends AppCompatActivity {
     }
 
     public void txtSignInForgotPasswordClicked(View view) {
-
+        Intent intent = new Intent(SignInActivity.this, ForgotPasswordActivity.class);
+        startActivity(intent);
     }
 
     public void txtSignInRegisterClicked(View view) {
-
+        Intent intent = new Intent(SignInActivity.this, SignUpActivity.class);
+        startActivity(intent);
     }
 
     public void buttonSignInClicked(View view) {
