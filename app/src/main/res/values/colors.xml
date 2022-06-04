@@ -8,4 +8,6 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="splash_background">#EBF6EC</color>
+    <color name="text_pure_color">#3688AE</color>
+    <color name="theme_dark_grey">#415159</color>
 </resources>
