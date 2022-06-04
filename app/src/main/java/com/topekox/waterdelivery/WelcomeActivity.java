@@ -22,7 +22,7 @@ public class WelcomeActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_welcome);
 
-        getSupportActionBar().hide();
+        // getSupportActionBar().hide();
 
         // Write a message to the database
         FirebaseDatabase database = FirebaseDatabase.getInstance();

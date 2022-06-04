@@ -7,11 +7,17 @@
         <entry key="..\:/Workspace/android/WaterDelivery/app/src/main/res/layout/activity_splash.xml" value="0.33967391304347827" />
         <entry key="..\:/Workspace/android/water-delivery-app/app/src/main/res/drawable/button_sign_in.xml" value="0.3425" />
         <entry key="..\:/Workspace/android/water-delivery-app/app/src/main/res/drawable/button_sign_up.xml" value="0.3425" />
+        <entry key="..\:/Workspace/android/water-delivery-app/app/src/main/res/drawable/ic_baseline_supervised_user_circle_24.xml" value="0.1" />
+        <entry key="..\:/Workspace/android/water-delivery-app/app/src/main/res/layout/activity_dashboard.xml" value="0.22" />
+        <entry key="..\:/Workspace/android/water-delivery-app/app/src/main/res/layout/activity_drawer_base.xml" value="0.22" />
         <entry key="..\:/Workspace/android/water-delivery-app/app/src/main/res/layout/activity_forgot_password.xml" value="0.23753399818676338" />
         <entry key="..\:/Workspace/android/water-delivery-app/app/src/main/res/layout/activity_main.xml" value="0.23164097914777879" />
         <entry key="..\:/Workspace/android/water-delivery-app/app/src/main/res/layout/activity_sign_in.xml" value="0.33" />
         <entry key="..\:/Workspace/android/water-delivery-app/app/src/main/res/layout/activity_sign_up.xml" value="0.33" />
         <entry key="..\:/Workspace/android/water-delivery-app/app/src/main/res/layout/activity_welcome.xml" value="0.33" />
+        <entry key="..\:/Workspace/android/water-delivery-app/app/src/main/res/layout/content_layout.xml" value="0.1" />
+        <entry key="..\:/Workspace/android/water-delivery-app/app/src/main/res/layout/main_drawer_header.xml" value="0.15" />
+        <entry key="..\:/Workspace/android/water-delivery-app/app/src/main/res/menu/main_dreawer_menu.xml" value="0.18" />
       </map>
     </option>
   </component>
